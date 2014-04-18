@@ -1,1 +1,1 @@
-{"features":[],"type":"FeatureCollection"}
+{"features":[{"geometry":{"coordinates":[-83.9689965,34.546085],"type":"Point"},"properties":{"accuracy":3199,"elapsed_realtime_nanos":1.4189280059577e+13,"marker-symbol":"campsite","provider":"fused","raw":"Location[fused 34.546085,-83.968996 acc=3199 et=+3h56m29s280ms]","time":1.397781726454e+12},"type":"Feature"}],"type":"FeatureCollection"}
