@@ -6,6 +6,6 @@ On 06 Oct, 2014 I became the 797th person to complete the 2184 mile thru-hike
 for 2014.
 
 During my time on the trail I used a custom app for Android
-([Checkin](https://github.com/SamWhited/Checkin)) to record GeoJSON data about
+([Checkin](https://github.com/SamWhited/checkin)) to record GeoJSON data about
 my trip. That data (as well as other data and analysis of my journey) is stored
 in this repo.
